@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angga.vb) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@angga.code) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anggavb8@gmail.com) [![CSS Battle](https://custom-icon-badges.demolab.com/badge/cssbattle-gray?logo=cssbattle)](https://cssbattle.dev/player/anggavb)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angga.vb) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@angga.code) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anggavb8@gmail.com) [![CSS Battle](https://custom-icon-badges.demolab.com/badge/cssbattle-gray?logo=cssbattle)](https://cssbattle.dev/player/anggavb) [![leetcode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode)](https://leetcode.com/u/anggavb)
 
 # 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
